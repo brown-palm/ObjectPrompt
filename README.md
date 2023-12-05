@@ -1,6 +1,6 @@
 # Object-centric Video Representation for Long-term Action Anticipation
 
-This is official implementation for WACV2023 paper: [Object-centric Video Representation for Long-term Action Anticipation](https://arxiv.org/pdf/2311.00180.pdf)
+This is official implementation for WACV2024 paper: [Object-centric Video Representation for Long-term Action Anticipation](https://arxiv.org/pdf/2311.00180.pdf)
 
 ## Installation
 
